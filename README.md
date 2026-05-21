@@ -70,7 +70,7 @@ Production-ready recommendation platform featuring hybrid ranking, cold-start ha
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Farzad%20Jamali-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/farzadjamali/) 
-[![GitHub](https://img.shields.io/badge/GitHub-farzadismyid-181717?style=flat&logo=github)](https://github.com/farzadismyid) 
+<!-- [![GitHub](https://img.shields.io/badge/GitHub-farzadismyid-181717?style=flat&logo=github)](https://github.com/farzadismyid) -->
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ali292jamali@gmail.com)
 
 ### ⚡ Fun Fact
