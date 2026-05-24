@@ -1,7 +1,9 @@
 <!--
-Feel free to take inspiration from my projects and profile setup.
-And if you enjoy the content, a follow is always appreciated :)
+Glad to see you exploring my profile :) Don’t miss the projects too, you might find something cool there as well.
+
+Feel free to take inspiration, and if you enjoy the content, a follow is always appreciated :)
 -->
+
 # Hi there 👋, I'm Farzad
 
 <a href="https://git.io/typing-svg">
