@@ -1,3 +1,7 @@
+<!--
+Feel free to take inspiration from my projects and profile setup.
+And if you enjoy the content, a follow is always appreciated :)
+-->
 # Hi there 👋, I'm Farzad
 
 <a href="https://git.io/typing-svg">
@@ -38,6 +42,7 @@ My work sits between industry and research, combining AI engineering, intelligen
 
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   
+  
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -70,8 +75,8 @@ Production-ready recommendation platform featuring hybrid ranking, cold-start ha
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Farzad%20Jamali-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/farzadjamali/) 
-<!-- [![GitHub](https://img.shields.io/badge/GitHub-farzadismyid-181717?style=flat&logo=github)](https://github.com/farzadismyid) -->
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ali292jamali@gmail.com)
+<!-- [![GitHub](https://img.shields.io/badge/GitHub-farzadismyid-181717?style=flat&logo=github)](https://github.com/farzadismyid) -->
 
 ### ⚡ Fun Fact
 
