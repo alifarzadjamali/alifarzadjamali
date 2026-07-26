@@ -7,7 +7,7 @@ Feel free to take inspiration, and if you enjoy the content, a follow is always 
 # Hi there 👋, I'm Farzad
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=24&duration=3500&pause=800&color=FFFFFF&repeat=false&width=700&lines=Machine+Learning+Engineer+and+Researcher+in+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=24&duration=3500&pause=800&color=000000&repeat=false&width=700&lines=Machine+Learning+Engineer+and+Researcher+in+AI" alt="Typing SVG" />
 </a>
 
 <p align="left">
