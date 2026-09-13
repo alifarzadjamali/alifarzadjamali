@@ -1,85 +1,47 @@
-<!--
-Glad to see you exploring my profile :) Don’t miss the projects too, you might find something cool there as well.
+# Hi, I'm Farzad
 
-Feel free to take inspiration, and if you enjoy the content, a follow is always appreciated :)
--->
+### AI/ML Engineer & Researcher
 
-# Hi there 👋, I'm Farzad
+I build practical AI systems across machine learning, computer vision, recommender systems, and LLM-based applications.
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=24&duration=3500&pause=800&color=000000&repeat=false&width=700&lines=Machine+Learning+Engineer+and+Researcher+in+AI" alt="Typing SVG" />
-</a>
+I'm currently completing an MPhil in Computer Science & Artificial Intelligence at the University of Salford. My background is in Mechanical Engineering, which still influences how I approach technical problems, especially projects connected to engineering and real-world systems.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Agentic AI-6C63FF?style=for-the-badge" />
-  
-  <img src="https://img.shields.io/badge/RAG-00A86B?style=for-the-badge" />
-    
-  <img src="https://img.shields.io/badge/XAI-8E44AD?style=for-the-badge" />
+## What I Work On
 
-  <img src="https://img.shields.io/badge/MLLMs-1F6FEB?style=for-the-badge" />
+- Computer Vision, Image Processing & Deep Learning
+- Document Intelligence, OCR & Information Extraction
+- LLMs & Multimodal AI
+- RAG, Semantic Search & Evidence Grounding
+- Recommender Systems & Ranking
+- ML Backends, APIs & Deployment
+- Model Evaluation & Research
 
-  <img src="https://img.shields.io/badge/AI Evaluation-E67E22?style=for-the-badge" />
-  
-  <img src="https://img.shields.io/badge/AI Systems-D9485F?style=for-the-badge" />
-</p>
+## Current Focus
 
-## 👨‍💻 About Me
+- MPhil research in multimodal recommendation and grounded AI explanations
+- Deep Learning teaching support at the University of Salford
+- Applied AI projects for engineering and industrial problems
 
-I’m a Machine Learning Engineer and researcher at the University of Salford, focused on building practical AI systems and scalable intelligent workflows for real-world use.
-
-My work sits between industry and research, combining AI engineering, intelligent automation, and modern generative AI systems.
-
-## 🛠 Main Skills
+## Technologies
 
 <p align="left">
-
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  
-  
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-  
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
-## 🔭 Currently Working On
+## Connect
 
-- Multimodal fashion recommendation systems
-- Grounded explanation generation with RAG
-- Evaluation pipelines for explainable AI
-- Agentic AI workflows with tool use and reasoning
+[LinkedIn](https://www.linkedin.com/in/alifarzadjamali/) · [Email](mailto:ali292jamali@gmail.com)
 
-## 📌 Featured Project
+### Fun fact
 
-### 📈 [WPP Recommendation Platform](https://github.com/farzadismyid/wpp_recsys_platform)
-
-Production-ready recommendation platform featuring hybrid ranking, cold-start handling, diversity-aware retrieval, configurable business rules, and scalable FastAPI deployment.
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Farzad%20Jamali-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/farzadjamali/) 
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ali292jamali@gmail.com)
-<!-- [![GitHub](https://img.shields.io/badge/GitHub-farzadismyid-181717?style=flat&logo=github)](https://github.com/farzadismyid) -->
-
-### ⚡ Fun Fact
-
-I work on AI systems, but still Google simple regex syntax.
+Started in Mechanical Engineering, somehow ended up training neural networks.
