@@ -40,7 +40,7 @@ I'm currently completing an MPhil in Computer Science & Artificial Intelligence 
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/alifarzadjamali/) · [ORCID](https://orcid.org/0009-0001-0678-4155) · [Email](mailto:ali292jamali@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/alifarzadjamali/) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=xd6LP18AAAAJ) · [ORCID](https://orcid.org/0009-0001-0678-4155) · [Email](mailto:ali292jamali@gmail.com)
 
 ### Fun fact
 
