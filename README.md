@@ -1,7 +1,5 @@
 # Hi, I'm Farzad
 
-This profile README is available under the [MIT License](LICENSE).
-
 ### AI/ML Engineer & Researcher
 
 I build practical AI systems across machine learning, computer vision, recommender systems, and LLM-based applications.
