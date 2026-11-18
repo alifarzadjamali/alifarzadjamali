@@ -2,11 +2,11 @@
 
 I'm Ali Jamali, but everyone calls me Farzad.
 
-### AI/ML Engineer & Researcher
+### AI & Computer Vision Engineer | MPhil Researcher, University of Salford
 
 I build practical AI systems across machine learning, computer vision, recommender systems, and LLM-based applications.
 
-I'm currently completing an MPhil in Computer Science & Artificial Intelligence at the University of Salford. My background is in Mechanical Engineering, which still influences how I approach technical problems, especially projects connected to engineering and real-world systems.
+I'm an MPhil Researcher in Computer Science & Artificial Intelligence at the University of Salford. My background is in Mechanical Engineering, which still influences how I approach technical problems, especially projects connected to engineering and real-world systems.
 
 ## What I Work On
 
